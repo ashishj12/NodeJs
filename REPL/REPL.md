@@ -12,8 +12,9 @@
 
 * V8 can run standalone, or can be embedded into any C++ application.
 
-==For chrome browser we use v8 engine.==
-==SpiderMonkey is the JavaScript and WebAssembly implementation library of the Mozilla Firefox web browser.==
+For chrome browser we use v8 engine.
+
+SpiderMonkey is the JavaScript and WebAssembly implementation library of the Mozilla Firefox web browser.
 
 
 **REPL(Read,Eval,Print,Loop)**
